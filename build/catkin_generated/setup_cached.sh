@@ -7,7 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/myho/Private_repositories/Private_ROS_System/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH='/home/myho/ROS/ipc/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu'
 export PWD='/home/myho/Private_repositories/Private_ROS_System/build'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/myho/Private_repositories/Private_ROS_System/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/myho/Private_repositories/Private_ROS_System/src:$ROS_PACKAGE_PATH"

@@ -126,6 +126,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/myho/Private_repositories/Private_ROS_System/build/gtest/cmake_install.cmake")
+  include("/home/myho/Private_repositories/Private_ROS_System/build/function/kalman_filter/cmake_install.cmake")
 
 endif()
 
