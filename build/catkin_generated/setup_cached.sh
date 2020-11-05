@@ -7,5 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export LD_LIBRARY_PATH='/home/myho/ROS/ipc/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu'
 export PWD='/home/myho/Private_repositories/Private_ROS_System/build'
